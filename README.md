@@ -4,4 +4,5 @@ This course is part of the upcoming Machine Learning in Tensorflow Specializatio
 
 <img src="img/certificate.PNG?raw=true" width="700"/> 
 
-- [Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
+## [Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
+- [Week 1 Assignment: Housing Prices](https://github.com/TimBstn/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Course%201/C1W1_Assignment.ipynb)
