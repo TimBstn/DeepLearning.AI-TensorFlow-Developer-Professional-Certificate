@@ -15,3 +15,15 @@ This course is part of the upcoming Machine Learning in Tensorflow Specializatio
 - [Week 2: Tackle Overfitting with Data Augmentation](https://github.com/TimBstn/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Course%202/C2W2_Assignment.ipynb)
 - [Week 3: Transfer Learning](https://github.com/TimBstn/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Course%202/C2W3_Assignment.ipynb)
 - [Week 4: Multi-class Classification](https://github.com/TimBstn/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/main/Course%202/C2W4_Assignment.ipynb)
+
+## [Course 3: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1)
+- []()
+- []()
+- []()
+- []()
+
+## [Course 4: Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/week/1)
+- []()
+- []()
+- []()
+- []()
